@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+td, th, tr {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th {
+    text-align: left;
+}
+
+.topper {
+    color: #70FF70;
+}
+.fail {
+    color: #FF6161;
+}
+
+.table_heading {
+ font-weight: bold;
+}
+
+.sub_heading {
+    font-weight: bold;
+}
+
